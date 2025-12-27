@@ -15,7 +15,7 @@ const Contact = ({ t, dir }) => {
                             {t.hero.subtitle}
                         </p>
                         <div className="flex gap-4">
-                            <a href="#" className="hover:text-white transition-colors">
+                            <a href="https://www.facebook.com/Orthophoniset" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                                 <Facebook size={24} />
                             </a>
                             <a href="https://www.instagram.com/orthophoniste_h.djalti/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
