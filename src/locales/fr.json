@@ -1,0 +1,50 @@
+{
+    "title": "Cabinet d’orthophonie et de psychologie H.djalti",
+    "nav": {
+        "home": "Accueil",
+        "services": "Services",
+        "contact": "Contact"
+    },
+    "hero": {
+        "welcome": "Bienvenue au Cabinet H.djalti",
+        "subtitle": "Soins spécialisés en orthophonie et psychologie pour enfants, adolescents et adultes.",
+        "cta": "Prendre rendez-vous"
+    },
+    "speech_therapy": {
+        "title": "Orthophonie",
+        "description": "Prise en charge des troubles de la communication et du langage.",
+        "items": [
+            "Troubles d'apprentissage (Dyslexie, Dysorthographie, Dyscalculie)",
+            "Troubles de l'attention et de la concentration (TDA/H)",
+            "Échec scolaire",
+            "Retard de langage",
+            "Hyperactivité",
+            "Bégaiement",
+            "Autisme",
+            "Déficience auditive",
+            "Troubles de la voix",
+            "Troubles de l'articulation",
+            "Syndrome de Down (Trisomie 21)",
+            "Aphasie",
+            "Retard mental"
+        ]
+    },
+    "psychology": {
+        "title": "Psychologie",
+        "description": "Accompagnement psychologique pour enfants, adolescents et adultes.",
+        "items": [
+            "Phobies (tous types)",
+            "Troubles anxieux",
+            "Consultations familiales",
+            "Troubles obsessionnels compulsifs (TOC)",
+            "Séances de relaxation",
+            "Énurésie chez l'enfant et l'adolescent"
+        ]
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "phone": "Téléphone",
+        "email": "Email",
+        "address": "Adresse"
+    }
+}
