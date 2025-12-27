@@ -55,7 +55,7 @@ const Contact = ({ t, dir }) => {
                             </li>
                             <li className="flex items-start gap-3">
                                 <MapPin size={18} className="text-secondary mt-1 min-w-[18px]" />
-                                <span>2 Rue Madani Fouatih Taher (Muroucho), Oran, Algérie</span>
+                                <span>20 Rue Aspt Maoued Ahmed, Oran</span>
                             </li>
                         </ul>
                         <div className="mt-6 w-full h-48 rounded-lg overflow-hidden border border-white/20">
@@ -67,7 +67,7 @@ const Contact = ({ t, dir }) => {
                                 scrolling="no"
                                 marginHeight="0"
                                 marginWidth="0"
-                                src="https://maps.google.com/maps?q=2+Rue+Madani+Fouatih+Taher+Oran+Algerie&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                                src="https://maps.google.com/maps?q=20+Rue+Aspt+Maoued+Ahmed+Oran&t=&z=15&ie=UTF8&iwloc=&output=embed"
                             ></iframe>
                         </div>
                     </div>
